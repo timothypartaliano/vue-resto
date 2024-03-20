@@ -1,0 +1,71 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "All Food",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "https://source.unsplash.com/featured/?food"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "https://source.unsplash.com/featured/?pizza"
+    },
+    {
+      "id": 3,
+      "name": "Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "https://source.unsplash.com/featured/?burger"
+    },
+    {
+      "id": 4,
+      "name": "Sushi",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "https://source.unsplash.com/featured/?sushi"
+    },
+    {
+      "id": 5,
+      "name": "Salad",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "https://source.unsplash.com/featured/?salad"
+    },
+    {
+      "id": 6,
+      "name": "Fruit",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "https://source.unsplash.com/featured/?fruit"
+    },
+    {
+      "id": 7,
+      "name": "Vegetable",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "https://source.unsplash.com/featured/?vegetable"
+    },
+    {
+      "id": 8,
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "https://source.unsplash.com/featured/?cheese"
+    }
+  ],
+  "bookings": [
+    {
+      "name": "Lala",
+      "email": "apravida@hacktiv8.com",
+      "people": "3",
+      "booking_date": "2024-01-06T20:26",
+      "special_request": "no",
+      "created_date": "2023-12-25T13:26:23.363Z",
+      "id": 1
+    }
+  ]
+}
